@@ -1,0 +1,45 @@
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.csproj.AssemblyReference.cache
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfoInputs.cache
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfo.cs
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\bin\Debug\net6.0\ChessGame.exe
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\bin\Debug\net6.0\ChessGame.deps.json
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\bin\Debug\net6.0\ChessGame.runtimeconfig.json
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\bin\Debug\net6.0\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\bin\Debug\net6.0\ChessGame.pdb
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\refint\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.pdb
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ChessGame.genruntimeconfig.cache
+C:\Users\Asphaltsk\Desktop\chessGame\ChessGame\obj\Debug\net6.0\ref\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.exe
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.deps.json
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.runtimeconfig.json
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.pdb
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.csproj.AssemblyReference.cache
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfoInputs.cache
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfo.cs
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\refint\ChessGame.dll
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.pdb
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.genruntimeconfig.cache
+C:\Users\Asphaltsk\Desktop\ConsoleChess\ChessGame\obj\Debug\net6.0\ref\ChessGame.dll
+E:\PC bck\chess game\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.exe
+E:\PC bck\chess game\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.deps.json
+E:\PC bck\chess game\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.runtimeconfig.json
+E:\PC bck\chess game\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.dll
+E:\PC bck\chess game\ConsoleChess\ChessGame\bin\Debug\net6.0\ChessGame.pdb
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.csproj.AssemblyReference.cache
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfoInputs.cache
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfo.cs
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.csproj.CoreCompileInputs.cache
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.dll
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\refint\ChessGame.dll
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.pdb
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ChessGame.genruntimeconfig.cache
+E:\PC bck\chess game\ConsoleChess\ChessGame\obj\Debug\net6.0\ref\ChessGame.dll

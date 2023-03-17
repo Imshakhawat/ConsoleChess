@@ -1,0 +1,38 @@
+﻿
+
+
+ChessMatch -> Screen -> ChessPosition -> ChessPiece -> MovePiece -> GameOver
+
+
+
+
+The game starts and an instance of ChessMatch is created.
+
+PrintMatch method of Screen class is called to display the initial state of the board, 
+captured pieces, turn, and player waiting to play.
+
+The user is prompted to input the source and destination positions of the piece they want to move. 
+
+The input is read by the program and parsed into ChessPosition objects.
+
+The ChessMatch instance checks if the move is valid using the IsValidMove method of ChessPiece class. 
+If the move is invalid, the user is prompted to input a new move. 
+If the move is valid, the move is executed using the MovePiece method of ChessMatch class.
+
+
+After the move is executed, the ChessMatch instance checks if the move resulted in a 
+"check" or "checkmate" situation. If it did, the GameOver property of ChessMatch is set to true and the game ends.
+
+Otherwise, the turn is switched to the other player and the game continues from step 2.
+
+
+
+
+
+
+
+
+Note that this is a very simplified sequence and there are likely many more steps involved in the full implementation of a Chess Game.
+Additionally, this sequence only covers the user input and the movement of the pieces,
+and doesn't cover things like game setup, piece capture, en passant moves, castling,
+promotions, and many other important aspects of a Chess Game.
